@@ -1,0 +1,2 @@
+include versioneer.py
+include hashomatic/_version.py
